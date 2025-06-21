@@ -96,6 +96,8 @@ http://localhost:3000/api-docs
 
 🐳 Fully dockerized setup
 
+---
+
 🛠️ Improvements (With More Time)
 
 Better Validation Logics
