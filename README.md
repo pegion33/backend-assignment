@@ -100,7 +100,7 @@ http://localhost:3000/api-docs
 
 🛠️ Improvements (With More Time)
 
-Better Validation Logics
+Better ETL data Validation Logics
 
 PostgreSQL indexing for faster joins
 
