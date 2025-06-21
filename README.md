@@ -47,6 +47,7 @@ Python ETL
 ---
 
 📜 Database Schema
+
 PostgreSQL schema:
 
 users(id INT PRIMARY KEY, name TEXT)
@@ -79,6 +80,7 @@ events(
 ---
 
 📖 Swagger API Docs
+
 Once running, access:
 
 http://localhost:3000/api-docs
@@ -86,6 +88,7 @@ http://localhost:3000/api-docs
 ---
 
 ✅ Features
+
 🧼 Clean ETL pipeline with validation and normalization
 
 📊 Aggregated analytics endpoints
