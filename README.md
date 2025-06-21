@@ -36,7 +36,7 @@ Python ETL
 
 ---
 
-🔌 API Endpoints
+##🔌 API Endpoints
 
 | Method | Endpoint                | Description                              |
 | ------ | ----------------------- | ---------------------------------------- |
@@ -46,7 +46,7 @@ Python ETL
 
 ---
 
-📜 Database Schema
+##📜 Database Schema
 
 PostgreSQL schema:
 
@@ -79,7 +79,7 @@ events(
 
 ---
 
-📖 Swagger API Docs
+##📖 Swagger API Docs
 
 Once running, access:
 
@@ -87,7 +87,7 @@ http://localhost:3000/api-docs
 
 ---
 
-✅ Features
+##✅ Features
 
 🧼 Clean ETL pipeline with validation and normalization
 
@@ -101,7 +101,7 @@ http://localhost:3000/api-docs
 
 ---
 
-🛠️ Improvements (With More Time)
+##🛠️ Improvements (With More Time)
 
 Better ETL data Validation Logics
 
