@@ -5,7 +5,7 @@ Built using **Python (ETL)**, **PostgreSQL**, **NestJS**, and **Docker**.
 
 ---
 
-## 🧩 Tech Stack
+# 🧩 Tech Stack
 
 - 🐍 Python (ETL)
 - 🐘 PostgreSQL
@@ -14,7 +14,7 @@ Built using **Python (ETL)**, **PostgreSQL**, **NestJS**, and **Docker**.
 
 ---
 
-## ⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -26,7 +26,7 @@ cd backend-assignment
 
 docker-compose up --build
 
-This will spin up:
+### **This will spin up:
 
 PostgreSQL database on localhost:5432
 
@@ -36,7 +36,7 @@ Python ETL
 
 ---
 
-##🔌 API Endpoints
+# 🔌 API Endpoints
 
 | Method | Endpoint                | Description                              |
 | ------ | ----------------------- | ---------------------------------------- |
@@ -46,9 +46,7 @@ Python ETL
 
 ---
 
-##📜 Database Schema
-
-PostgreSQL schema:
+# 📜 Database Schema
 
 users(id INT PRIMARY KEY, name TEXT)
 
@@ -79,15 +77,15 @@ events(
 
 ---
 
-##📖 Swagger API Docs
+# 📖 Swagger API Docs
 
-Once running, access:
+### Once running, access:
 
 http://localhost:3000/api-docs
 
 ---
 
-##✅ Features
+# ✅ Features
 
 🧼 Clean ETL pipeline with validation and normalization
 
@@ -101,7 +99,7 @@ http://localhost:3000/api-docs
 
 ---
 
-##🛠️ Improvements (With More Time)
+# 🛠️ Improvements (With More Time)
 
 Better ETL data Validation Logics
 
