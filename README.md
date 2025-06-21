@@ -47,7 +47,7 @@ Python ETL
 ---
 
 📜 Database Schema
-PostgreSQL schema generated from ETL:
+PostgreSQL schema:
 
 users(id INT PRIMARY KEY, name TEXT)
 
